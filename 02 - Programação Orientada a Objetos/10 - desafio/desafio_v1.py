@@ -1,7 +1,7 @@
 from abc import ABC, abstractclassmethod, abstractproperty
 from datetime import datetime
 
-
+# Falta implementar o código para adicionar a documentação!
 class Cliente:
     def __init__(self, endereco):
         self.endereco = endereco
